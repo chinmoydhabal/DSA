@@ -14,8 +14,6 @@ public class Prime_Number_Check {
         } else {
             System.out.println(number + " is not a prime number.");
         }
-
-        scanner.close();
     }
 
     // Function to check if a number is prime
