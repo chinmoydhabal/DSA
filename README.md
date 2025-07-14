@@ -44,7 +44,7 @@ javac Main.java
 java Main
 
 
-📁 Folder Structure
+###📁 Folder Structure
 
 📦dsa-using-java
  ┣ 📂algorithms
