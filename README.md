@@ -43,3 +43,19 @@ cd dsa-using-java
 javac Main.java
 java Main
 
+
+📁 Folder Structure
+
+📦dsa-using-java
+ ┣ 📂algorithms
+ ┃ ┣ 📄Sorting.java
+ ┃ ┣ 📄Searching.java
+ ┣ 📂data_structures
+ ┃ ┣ 📄Stack.java
+ ┃ ┣ 📄Queue.java
+ ┃ ┣ 📄LinkedList.java
+ ┣ 📂problems
+ ┃ ┣ 📄TwoSum.java
+ ┃ ┣ 📄Fibonacci.java
+ ┗ 📄Main.java
+
